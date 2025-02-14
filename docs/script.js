@@ -20,6 +20,7 @@ async function loadWOD() {
         const wod = data.wods[dayOfYear - 1];
         console.log("Today's WOD:", wod);
 
+        document.getElementById("name").textContent =  (name || "No Data") + "/class";
         document.getElementById("warmup").textContent = "Warm-Up: " + (wod.warmup || "No Data");
         document.getElementById("strength").textContent = "Strength: " + (wod.strength || "No Data");
         document.getElementById("wod").textContent = "WOD: " + (wod.wod || "No Data");
