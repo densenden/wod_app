@@ -11,7 +11,8 @@ async function loadWOD() {
         console.log("WOD Data:", data);
 
         const today = new Date();
-        const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000);
+        const dayOfYear = today.getUTCDate() % data.wods.length; // Falls nur 10 Workouts existieren
+        const wod = data.wods[dayOfYear] || { warmup: "No data", strength: "No data", wod: "No data", accessory: "No data" };
 
         if (!data.wods || !data.wods[dayOfYear - 1]) {
             throw new Error('Invalid WOD data structure or missing entries');
@@ -25,6 +26,8 @@ async function loadWOD() {
         document.getElementById("strength").textContent = "Strength: " + (wod.strength || "No Data");
         document.getElementById("wod").textContent = "WOD: " + (wod.wod || "No Data");
         document.getElementById("accessory").textContent = "Accessory: " + (wod.accessory || "No Data");
+        console.log("Today's Index:", dayOfYear - 1);
+        console.log("Workout Object:", data.wods[dayOfYear - 1]);
 
     } catch (error) {
         console.error("Error loading WOD:", error);
