@@ -1,6 +1,6 @@
 async function loadWOD() {
     try {
-        const response = await fetch('../data/default_wods.json'); // Korrigierter Pfad zur JSON-Datei
+        const response = await fetch('../data/default_wods.json');
         if (!response.ok) {
             throw new Error('Failed to load WOD data');
         }
