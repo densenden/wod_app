@@ -1,7 +1,7 @@
 async function loadWOD() {
     try {
-        const response = await fetch('data/default_wods.json');
-        console.log("Fetching WOD Data...", response);
+        console.log("Fetching WOD Data...");
+        const response = await fetch('https://densenden.github.io/wod_app/data/default_wods.json');
 
         if (!response.ok) {
             throw new Error('Failed to load WOD data');
@@ -11,23 +11,22 @@ async function loadWOD() {
         console.log("WOD Data:", data);
 
         const today = new Date();
-        const dayOfYear = today.getUTCDate() % data.wods.length; // Falls nur 10 Workouts existieren
-        const wod = data.wods[dayOfYear] || { warmup: "No data", strength: "No data", wod: "No data", accessory: "No data" };
+        const dayOfYear = today.getUTCDate() % data.wods.length; // Verhindert Out-of-Bounds Fehler
+        console.log("Today's Index:", dayOfYear);
+        console.log("Workout Object:", data.wods[dayOfYear]);
 
-        if (!data.wods || !data.wods[dayOfYear - 1]) {
+        if (!data.wods || !data.wods[dayOfYear]) {
             throw new Error('Invalid WOD data structure or missing entries');
         }
 
-        const wod = data.wods[dayOfYear - 1];
-        console.log("Today's WOD:", wod);
+        // WOD Daten aus JSON extrahieren
+        let workout = data.wods[dayOfYear];
 
-        document.getElementById("name").textContent =  (name || "No Data") + "/class";
-        document.getElementById("warmup").textContent = "Warm-Up: " + (wod.warmup || "No Data");
-        document.getElementById("strength").textContent = "Strength: " + (wod.strength || "No Data");
-        document.getElementById("wod").textContent = "WOD: " + (wod.wod || "No Data");
-        document.getElementById("accessory").textContent = "Accessory: " + (wod.accessory || "No Data");
-        console.log("Today's Index:", dayOfYear - 1);
-        console.log("Workout Object:", data.wods[dayOfYear - 1]);
+        // Elemente in der HTML aktualisieren
+        document.getElementById("warmup").textContent = "Warm-Up: " + (workout.warmup || "No Data");
+        document.getElementById("strength").textContent = "Strength: " + (workout.strength || "No Data");
+        document.getElementById("wod").textContent = "WOD: " + (workout.wod || "No Data");
+        document.getElementById("accessory").textContent = "Accessory: " + (workout.accessory || "No Data");
 
     } catch (error) {
         console.error("Error loading WOD:", error);
