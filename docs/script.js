@@ -1,6 +1,6 @@
 async function loadWOD() {
     try {
-        const response = await fetch('http://localhost:8000/data/default_wods.json');
+        const response = await fetch('data/default_wods.json');
         console.log("Fetching WOD Data...", response);
 
         if (!response.ok) {
