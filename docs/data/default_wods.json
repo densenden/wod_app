@@ -1,105 +1,23 @@
 {
-    "name": "Default Gym",
+    "name": "CrossFit Alpha Box",
     "wods": [
         {
             "warmup": "10 min Row + Dynamic Stretching",
-            "strength": "5x5 Back Squat (80% 1RM)",
+            "strength": "5x5 BSQ (80% 1RM)",
             "wod": "AMRAP 12min:\n12 Thrusters (40kg/90lbs)\n12 Burpees",
-            "accessory": "3x15 GHD Sit-Ups",
-            "mobility": "10 min Foam Rolling & Hip Openers",
-            "cooldown": "Static Stretching 5 min",
-            "conditioning": "5 rounds:\n30 sec AirBike\n30 sec Rest",
-            "team_wod": "Teams of 2:\n200 Wallballs (shared)\n150 Pull-Ups\n100 Box Jumps"
+            "accessory": "3x15 GHD Sit-Ups"
         },
         {
             "warmup": "3 Rounds:\n10 Air Squats\n10 Push-Ups",
-            "strength": "5x3 Deadlift (85% 1RM)",
-            "wod": "21-15-9:\nDeadlifts (50kg/110lbs)\nBox Jumps (24/20 inch)",
-            "accessory": "3x12 Reverse Hypers",
-            "mobility": "Pigeon Stretch 2 min per side",
-            "cooldown": "Banded Hamstring Stretch",
-            "conditioning": "EMOM 10min:\nRow 150m + 5 Burpees",
-            "team_wod": "Partner AMRAP 15min:\n5 Synchro Thrusters\n10 Pull-Ups\n200m Run"
+            "strength": "5x3 DL (85% 1RM)",
+            "wod": "21-15-9:\nDL (50kg/110lbs)\nBox Jumps (24/20 inch)",
+            "accessory": "3x12 Reverse Hypers"
         },
         {
             "warmup": "5 min Assault Bike + Shoulder Activation",
-            "strength": "4x6 Bench Press (75% 1RM)",
-            "wod": "4 Rounds:\n400m Run\n15 Pull-Ups\n10 Overhead Squats (40kg/90lbs)",
-            "accessory": "3x12 Ring Rows",
-            "mobility": "Thoracic Spine Foam Rolling",
-            "cooldown": "Breathing Exercises",
-            "conditioning": "Tabata AirSquats 8 rounds",
-            "team_wod": "Teams of 3:\n30 Clean & Jerks (50kg)\n30 Box Step-Ups\nRow 500m"
-        },
-        {
-            "warmup": "5 min Skipping Rope + Mobility Drills",
-            "strength": "5x5 Overhead Press (70% 1RM)",
-            "wod": "For Time:\n100 Double Unders\n50 Wall Balls\n25 Pull-Ups",
-            "accessory": "3x12 Hanging Leg Raises",
-            "mobility": "Cat-Cow Stretch + Deep Squat Hold",
-            "cooldown": "5 min Meditation",
-            "conditioning": "400m Sled Push",
-            "team_wod": "Pair WOD:\nYou go - I go Burpee Box Jumps"
-        },
-        {
-            "warmup": "5 min Skipping Rope + Mobility Drills",
-            "strength": "5x5 Overhead Press (70% 1RM)",
-            "wod": "For Time:\n100 Double Unders\n50 Wall Balls\n25 Pull-Ups",
-            "accessory": "3x12 Hanging Leg Raises",
-            "mobility": "Cat-Cow Stretch + Deep Squat Hold",
-            "cooldown": "5 min Meditation",
-            "conditioning": "400m Sled Push",
-            "team_wod": "Pair WOD:\nYou go - I go Burpee Box Jumps"
-        },
-        {
-            "warmup": "5 min Skipping Rope + Mobility Drills",
-            "strength": "5x5 Overhead Press (70% 1RM)",
-            "wod": "For Time:\n100 Double Unders\n50 Wall Balls\n25 Pull-Ups",
-            "accessory": "3x12 Hanging Leg Raises",
-            "mobility": "Cat-Cow Stretch + Deep Squat Hold",
-            "cooldown": "5 min Meditation",
-            "conditioning": "400m Sled Push",
-            "team_wod": "Pair WOD:\nYou go - I go Burpee Box Jumps"
-        },
-        {
-            "warmup": "5 min Skipping Rope + Mobility Drills",
-            "strength": "5x5 Overhead Press (70% 1RM)",
-            "wod": "For Time:\n100 Double Unders\n50 Wall Balls\n25 Pull-Ups",
-            "accessory": "3x12 Hanging Leg Raises",
-            "mobility": "Cat-Cow Stretch + Deep Squat Hold",
-            "cooldown": "5 min Meditation",
-            "conditioning": "400m Sled Push",
-            "team_wod": "Pair WOD:\nYou go - I go Burpee Box Jumps"
-        },
-        {
-            "warmup": "5 min Skipping Rope + Mobility Drills",
-            "strength": "5x5 Overhead Press (70% 1RM)",
-            "wod": "For Time:\n100 Double Unders\n50 Wall Balls\n25 Pull-Ups",
-            "accessory": "3x12 Hanging Leg Raises",
-            "mobility": "Cat-Cow Stretch + Deep Squat Hold",
-            "cooldown": "5 min Meditation",
-            "conditioning": "400m Sled Push",
-            "team_wod": "Pair WOD:\nYou go - I go Burpee Box Jumps"
-        },
-        {
-            "warmup": "5 min Skipping Rope + Mobility Drills",
-            "strength": "5x5 Overhead Press (70% 1RM)",
-            "wod": "For Time:\n100 Double Unders\n50 Wall Balls\n25 Pull-Ups",
-            "accessory": "3x12 Hanging Leg Raises",
-            "mobility": "Cat-Cow Stretch + Deep Squat Hold",
-            "cooldown": "5 min Meditation",
-            "conditioning": "400m Sled Push",
-            "team_wod": "Pair WOD:\nYou go - I go Burpee Box Jumps"
-        },
-        {
-            "warmup": "5 min Skipping Rope + Mobility Drills",
-            "strength": "5x5 Overhead Press (70% 1RM)",
-            "wod": "For Time:\n100 Double Unders\n50 Wall Balls\n25 Pull-Ups",
-            "accessory": "3x12 Hanging Leg Raises",
-            "mobility": "Cat-Cow Stretch + Deep Squat Hold",
-            "cooldown": "5 min Meditation",
-            "conditioning": "400m Sled Push",
-            "team_wod": "Pair WOD:\nYou go - I go Burpee Box Jumps"
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "4 Rounds:\n400m Run\n15 Pull-Ups\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Ring Rows"
         }
     ]
 }

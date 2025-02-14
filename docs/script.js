@@ -10,30 +10,26 @@ async function loadWOD() {
         const data = await response.json();
         console.log("WOD Data:", data);
 
-        const today = new Date();
-        const dayOfYear = today.getUTCDate() % data.wods.length; // Verhindert Out-of-Bounds Fehler
-        console.log("Today's Index:", dayOfYear);
-        console.log("Workout Object:", data.wods[dayOfYear]);
+        // Setze den Namen der Box aus JSON
+        document.getElementById("box-name").textContent = data.name || "CrossFit Box";
 
-        if (!data.wods || !data.wods[dayOfYear]) {
-            throw new Error('Invalid WOD data structure or missing entries');
-        }
+        // Zufälliges WOD auswählen
+        const randomIndex = Math.floor(Math.random() * data.wods.length);
+        console.log("Random WOD Index:", randomIndex);
 
-        // WOD Daten aus JSON extrahieren
-        let workout = data.wods[dayOfYear];
+        const wod = data.wods[randomIndex];
 
-        // Elemente in der HTML aktualisieren
-        document.getElementById("warmup").textContent = "Warm-Up: " + (workout.warmup || "No Data");
-        document.getElementById("strength").textContent = "Strength: " + (workout.strength || "No Data");
-        document.getElementById("wod").textContent = "WOD: " + (workout.wod || "No Data");
-        document.getElementById("accessory").textContent = "Accessory: " + (workout.accessory || "No Data");
+        document.getElementById("warmup").innerHTML = "<h2>WARM-UP</h2><p>" + (wod.warmup || "No Data").replace(/\n/g, '<br>') + "</p>";
+        document.getElementById("strength").innerHTML = "<h2>STRENGTH</h2><p>" + (wod.strength || "No Data").replace(/\n/g, '<br>') + "</p>";
+        document.getElementById("wod").innerHTML = "<h2>WOD</h2><p>" + (wod.wod || "No Data").replace(/\n/g, '<br>') + "</p>";
+        document.getElementById("accessory").innerHTML = "<h2>ACCESSORY</h2><p>" + (wod.accessory || "No Data").replace(/\n/g, '<br>') + "</p>";
 
     } catch (error) {
         console.error("Error loading WOD:", error);
-        document.getElementById("warmup").textContent = "Error loading WOD data";
-        document.getElementById("strength").textContent = "";
-        document.getElementById("wod").textContent = "";
-        document.getElementById("accessory").textContent = "";
+        document.getElementById("warmup").innerHTML = "<h2>WARM-UP</h2><p>Error loading WOD data</p>";
+        document.getElementById("strength").innerHTML = "";
+        document.getElementById("wod").innerHTML = "";
+        document.getElementById("accessory").innerHTML = "";
     }
 }
 
