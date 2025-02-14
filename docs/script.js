@@ -1,10 +1,14 @@
 async function loadWOD() {
     try {
-        const response = await fetch('/data/default_wods.json');
+        const response = await fetch('http://localhost:8000/data/default_wods.json');
+        console.log("Fetching WOD Data...", response);
+
         if (!response.ok) {
             throw new Error('Failed to load WOD data');
         }
+
         const data = await response.json();
+        console.log("WOD Data:", data);
 
         const today = new Date();
         const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000);
@@ -14,8 +18,8 @@ async function loadWOD() {
         }
 
         const wod = data.wods[dayOfYear - 1];
+        console.log("Today's WOD:", wod);
 
-        document.getElementById("name").textContent = name + "/";
         document.getElementById("warmup").textContent = "Warm-Up: " + (wod.warmup || "No Data");
         document.getElementById("strength").textContent = "Strength: " + (wod.strength || "No Data");
         document.getElementById("wod").textContent = "WOD: " + (wod.wod || "No Data");
