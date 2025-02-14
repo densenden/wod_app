@@ -1,0 +1,8 @@
+{
+    "name": "Default Gym",
+    "wods": [
+        { "warmup": "10 min Row + Dynamic Stretching", "strength": "5x5 Back Squat (80% 1RM)", "wod": "AMRAP 12min: 12 Thrusters (40kg/90lbs), 12 Burpees", "accessory": "3x15 GHD Sit-Ups" },
+        { "warmup": "3 Rounds: 10 Air Squats, 10 Push-Ups", "strength": "5x3 Deadlift (85% 1RM)", "wod": "21-15-9: Deadlifts (50kg/110lbs) & Box Jumps (24/20 inch)", "accessory": "3x12 Reverse Hypers" },
+        { "warmup": "5 min Assault Bike + Shoulder Activation", "strength": "4x6 Bench Press (75% 1RM)", "wod": "4 Rounds: 400m Run, 15 Pull-Ups, 10 Overhead Squats (40kg/90lbs)", "accessory": "3x12 Ring Rows" }
+    ]
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workout of the Day</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            background: #222;
+            color: white;
+        }
+        .header img {
+            height: 50px;
+            margin-right: 15px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            padding: 20px;
+            height: calc(100vh - 80px);
+        }
+        .box {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-grow: 1;
+            min-width: 45%;
+            min-height: 45%;
+            margin: 10px;
+            font-size: 24px;
+        }
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            .box {
+                min-width: 90%;
+                min-height: auto;
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="logo.png" alt="Box Logo">
+        <h1 id="box-name">CrossFit Box</h1>
+    </div>
+    <div class="container">
+        <div class="box" id="warmup">Warm-Up: Loading...</div>
+        <div class="box" id="strength">Strength: Loading...</div>
+        <div class="box" id="wod">WOD: Loading...</div>
+        <div class="box" id="accessory">Accessory: Loading...</div>
+    </div>
+    <script>
+        async function loadWOD() {
+            const response = await fetch('../data/default_wods.json');
+            const data = await response.json();
+            const today = new Date();
+            const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000);
+            const wod = data.wods[dayOfYear - 1] || { warmup: "No data", strength: "No data", wod: "No data", accessory: "No data" };
+            
+            document.getElementById("warmup").textContent = "Warm-Up: " + wod.warmup;
+            document.getElementById("strength").textContent = "Strength: " + wod.strength;
+            document.getElementById("wod").textContent = "WOD: " + wod.wod;
+            document.getElementById("accessory").textContent = "Accessory: " + wod.accessory;
+        }
+        loadWOD();
+    </script>
+</body>
+</html>
