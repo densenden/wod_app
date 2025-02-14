@@ -1,7 +1,7 @@
 async function loadWOD() {
     try {
         console.log("Fetching WOD Data...");
-        const response = await fetch('https://densenden.github.io/wod_app/data/default_wods.json');
+        const response = await fetch('./data/default_wods.json');
 
         if (!response.ok) {
             throw new Error('Failed to load WOD data');
