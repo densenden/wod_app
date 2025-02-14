@@ -7,10 +7,10 @@ body {
 }
 .header {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
+    justify-content: left;
     padding: 10px;
-    background: #222;
+    background: #111;
     color: white;
 }
 .header img {
