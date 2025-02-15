@@ -2,10 +2,14 @@
     font-family: 'FFMCF';
     src: url('assets/FFMCF.otf') format('opentype');
 }
+@font-face {
+    font-family: 'WESTON';
+    src: url('assets/WestonFree-Regular.ttf') format('truetyype');
+}
 
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
+    font-family: WESTON, sans-serif;
+    text-align: left;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -13,15 +17,17 @@ body {
 
 .header {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
+    justify-content: left;
     padding: 10px;
     background: #222;
     color: white;
+    max-height: 150px;
+    font-family: 'WESTON', Arial, sans-serif;
 }
 
 .header img {
-    height: 50px;
+    height: 150px;
     margin-right: 15px;
 }
 
@@ -30,21 +36,21 @@ body {
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 20px;
-    height: calc(100vh - 80px);
+    max-height: 20%;
 }
 
 .box {
-    background: white;
+    background: #666;
     border-radius: 10px;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
+    justify-content: left;
     flex-grow: 1;
-    min-width: 45%;
-    min-height: 45%;
+    max-width: 45%;
+    height: 10%;
     margin: 10px;
     font-size: 5em;
     text-transform: uppercase;
@@ -52,8 +58,16 @@ body {
 }
 
 .box h2 {
-    font-size: 0.4em;
+    font-size: 0.6em;
     margin-bottom: 10px;
+    color: #ccc;
+}
+
+
+.box p {
+    font-size: 1.5em;
+    line-height: 0.8;
+    text-align: left;
 }
 
 @media (max-width: 768px) {
