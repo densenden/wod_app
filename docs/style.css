@@ -108,7 +108,7 @@ body {
     padding: 40px 20px 0px 30px;
     margin: -10px;
     min-width: 2em;
-    color: black;
+    color: rgba(15,10,10,1);
     writing-mode: vertical-rl; /* Vertikaler Text */
     text-orientation: upright;
     text-align: left;
