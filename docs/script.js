@@ -61,13 +61,13 @@ function formatText(text, crossfitAbbr) {
     let formattedText = text;
 
     // Insert a line break after "Min:" or any abbreviation ending with ":"
-    formattedText = formattedText.replace(/(\b\w+\s*\d*):/g, "$1:<br>");
+    // formattedText = formattedText.replace(/(\b\w+\s*\d*):/g, "$1:<br>");
 
     // Prevent line break after "x" in "5x5", "3x10", etc.
-    formattedText = formattedText.replace(/(\d+)x(\d+)/g, "$1x$2");
+    // formattedText = formattedText.replace(/(\d+)x(\d+)/g, "$1x$2");
 
     // Prevent line break inside parentheses (e.g., (5x5) remains intact)
-    formattedText = formattedText.replace(/\((.*?)\)/g, (match) => match.replace(/(\d+)/g, "$1"));
+    // formattedText = formattedText.replace(/\((.*?)\)/g, (match) => match.replace(/(\d+)/g, "$1"));
 
     // Insert a line break before numbers, but only if:
     // - No <br> exists before
@@ -80,10 +80,10 @@ function formatText(text, crossfitAbbr) {
     formattedText = formattedText.replace(/<br>(?=[),])/g, "");
 
     // Ensure no double <br> in a row
-    formattedText = formattedText.replace(/(<br>){2,}/g, "<br>");
+    // formattedText = formattedText.replace(/(<br>){2,}/g, "<br>");
 
     // Highlight numbers (e.g., weights, reps, time)
-    formattedText = formattedText.replace(/(\d+['"]?)/g, "<strong>$1</strong>");
+    // formattedText = formattedText.replace(/(\d+['"]?)/g, "<strong>$1</strong>");
 
     // Highlight CrossFit abbreviations
     Object.keys(crossfitAbbr).forEach(abbr => {
