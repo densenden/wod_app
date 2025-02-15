@@ -1,82 +1,149 @@
-@font-face {
-    font-family: 'FFMCF';
-    src: url('assets/FFMCF.otf') format('opentype');
-}
-@font-face {
-    font-family: 'WESTON';
-    src: url('assets/WestonFree-Regular.ttf') format('truetyype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@100..900&display=swap');
 
 body {
-    font-family: WESTON, sans-serif;
-    text-align: left;
+    font-family: 'Tourney', sans-serif;
+    font-variation-settings: "wght" 300;
+    text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #222; /* Dunkelgrau als Hintergrund */
+    color: #FFD700; /* Sonnengelb als Kontrast */
 }
 
 .header {
     display: flex;
-    align-items: left;
-    justify-content: left;
+    align-items: center;
+    justify-content: center;
     padding: 10px;
-    background: #222;
+    background: #111;
     color: white;
-    max-height: 150px;
-    font-family: 'WESTON', Arial, sans-serif;
 }
 
-.header img {
+.logo {
     height: 150px;
-    margin-right: 15px;
+    width: 150px;
+    margin-right: 20px;
 }
 
+#box-name {
+    font-size: 4em;
+    font-variation-settings: "wght" 100;
+    display: inline-block;
+}
+
+/* Grid Layout für die Boxen */
 .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 20px;
-    max-height: 20%;
+    display: grid;
+    grid-template-columns: 2;
+    grid-template-rows: 3;
+    gap: 4px;
+    justify-items: left;
+    align-items: center;
+    padding: 2vh;
+    width: 100vw;
+    height: 80vh;
 }
 
-.box {
-    background: #666;
-    border-radius: 10px;
-    padding: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    display: flex;
-    flex-direction: column;
-    align-items: left;
-    justify-content: left;
-    flex-grow: 1;
-    max-width: 45%;
-    height: 10%;
-    margin: 10px;
-    font-size: 5em;
-    text-transform: uppercase;
-    font-family: 'FFMCF', Arial, sans-serif;
+.warmup {
+    grid-column: 1;
+    grid-row: 1;
+    width: 45vw;
+    height: 20vh;
 }
+
+.strength {
+    grid-column: 2;
+    grid-row: 1;
+    width: 45vw;
+    height: 20vh;
+}
+
+.wod {
+    grid-column: 1 / span 2;
+    grid-row: 2;
+    width: 90vw;
+    height: 20vh;
+}
+
+.accessory {
+    grid-column: 1 / span 2;
+    grid-row: 3;
+    width: 45vw;
+    height: 20vh;
+}
+
+/* Styling der Boxen */
+.box {
+    background: #333;
+    color: #FFD700;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    clip-path: polygon(
+        20px 0px, calc(100% - 20px) 0px, 100% 20px,
+        100% calc(100% - 20px), calc(100% - 20px) 100%,
+        20px 100%, 0px calc(100% - 20px), 0px 20px
+    );
+
+
+}
+
 
 .box h2 {
-    font-size: 0.6em;
-    margin-bottom: 10px;
-    color: #ccc;
+    font-variation-settings: "wght" 900;
+    font-size: 2em;
+    text-transform: uppercase;
+    line-height: 0.8em;
+    background: #FFD700;
+    padding: 20px;
+    color: black;
+    writing-mode: vertical-rl; /* Vertikaler Text */
+    text-orientation: upright;
+    text-align: center;
+    clip-path: polygon(
+        10px 0px, calc(100% - 10px) 0px, 100% 10px,
+        100% calc(100% - 10px), calc(100% - 10px) 100%,
+        10px 100%, 0px calc(100% - 10px), 0px 10px
+    );
+    margin-right: 20px; /* Abstand zum Text */
 }
 
 
+/* Text oben ausrichten */
 .box p {
-    font-size: 1.5em;
-    line-height: 0.8;
+    font-variation-settings: "wght" 700, "ital" 1;
+    font-size: 3.5em;
+    color: white;
     text-align: left;
+    margin-top: 0;
 }
 
+/* Hervorhebung für wichtige Elemente */
+p strong {
+    font-variation-settings: "wght" 900;
+    font-size: 1.5em;
+    color: #FFD700;
+    text-shadow: 5px 5px black;
+    padding: 5px;
+}
+
+p .highlight {
+    color: #FFD700;
+}
+
+/* Mobile Ansicht: Boxen untereinander */
 @media (max-width: 768px) {
     .container {
-        flex-direction: column;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
     }
-    .box {
-        min-width: 90%;
-        min-height: auto;
-        font-size: 3em;
+
+    .box, .wod {
+        width: 90vw; /* Volle Breite auf mobilen Geräten */
+        height: auto;
+        flex-direction: column;
+        align-items: flex-start;
     }
 }
