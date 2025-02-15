@@ -2,7 +2,7 @@ import json
 import os
 from datetime import datetime
 
-DATA_DIR = "../data"
+DATA_DIR = "../docs/data"
 CONFIG_FILE = "../config/config.json"
 
 class Workout:

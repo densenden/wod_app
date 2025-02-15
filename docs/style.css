@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
 
 body {
-    font-family: 'Tourney', sans-serif;
-    font-variation-settings: "wght" 300;
+    font-family: 'Space Grotesk', sans-serif;
+    font-variation-settings: "wght" 400;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -13,33 +13,44 @@ body {
 .header {
     display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 10px;
-    background: #111;
+    justify-content: space-between;
+    padding: 1vh 4vh 1vh 4vh;
+    background: #000;
     color: white;
+    font-size: 3em;
+    font-variation-settings: "wght" 100;
 }
 
+
 .logo {
-    height: 150px;
-    width: 150px;
-    margin-right: 20px;
+    height: 6vh;
+    width: 6vh;
 }
 
 #box-name {
-    font-size: 4em;
+    font-size: 1em;
     font-variation-settings: "wght" 100;
-    display: inline-block;
 }
 
-/* Grid Layout für die Boxen */
+#class-type {
+    margin: 0px 0px 0px 20px;
+    color: #FFD700;
+}
+
+#date {
+    margin-left: 20px;
+    color: #222;
+}
+
+
 .container {
     display: grid;
     grid-template-columns: 2;
-    grid-template-rows: 3;
-    gap: 4px;
+    grid-template-rows: 4;
+    gap: 1vw;
     justify-items: left;
-    align-items: center;
-    padding: 2vh;
+    align-items: left;
+    padding: 4vh 4vh 4vh 4vh;
     width: 100vw;
     height: 80vh;
 }
@@ -61,76 +72,82 @@ body {
 .wod {
     grid-column: 1 / span 2;
     grid-row: 2;
-    width: 90vw;
-    height: 20vh;
+    width: 95vw;
+    height: 35vh;
+    background: rgba(15,10,10,0.5);
 }
 
 .accessory {
-    grid-column: 1 / span 2;
+    grid-column: 1 / span 1;
     grid-row: 3;
     width: 45vw;
-    height: 20vh;
+    height: 15vh;
 }
 
-/* Styling der Boxen */
+
 .box {
-    background: #333;
-    color: #FFD700;
-    padding: 20px;
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    align-items: stretch; /* Sorgt dafür, dass h2 die ganze Höhe ausfüllt */
     justify-content: flex-start;
     clip-path: polygon(
         20px 0px, calc(100% - 20px) 0px, 100% 20px,
         100% calc(100% - 20px), calc(100% - 20px) 100%,
-        20px 100%, 0px calc(100% - 20px), 0px 20px
+        20px 100%, 0px calc(100% - 20px), 0px 0px
     );
-
-
 }
 
-
+/* Vertikales Banner für h2 */
 .box h2 {
-    font-variation-settings: "wght" 900;
+    font-variation-settings: "wght" 700;
     font-size: 2em;
     text-transform: uppercase;
-    line-height: 0.8em;
+    line-height: 0.7em;
+    letter-spacing: -0.3em;
     background: #FFD700;
-    padding: 20px;
+    padding: 40px 20px 0px 30px;
+    margin: -10px;
+    min-width: 2em;
     color: black;
     writing-mode: vertical-rl; /* Vertikaler Text */
     text-orientation: upright;
-    text-align: center;
-    clip-path: polygon(
-        10px 0px, calc(100% - 10px) 0px, 100% 10px,
-        100% calc(100% - 10px), calc(100% - 10px) 100%,
-        10px 100%, 0px calc(100% - 10px), 0px 10px
-    );
-    margin-right: 20px; /* Abstand zum Text */
+    text-align: left;
+    align-self: stretch; /* Füllt die ganze Höhe der Box */
+    display: flex;
+    justify-content: left; /* Zentriert den Text vertikal */
+    align-items: center;
+    margin-right: 2vw; /* Abstand zum Text */
 }
 
 
-/* Text oben ausrichten */
+/* WOD-Text daneben */
 .box p {
     font-variation-settings: "wght" 700, "ital" 1;
-    font-size: 3.5em;
+    font-size: 2.5em;
+    line-height; 2em;
     color: white;
     text-align: left;
-    margin-top: 0;
+    margin-top: 20px;
+    padding-top: 10px;
 }
 
-/* Hervorhebung für wichtige Elemente */
+.wod p {
+    font-variation-settings: "wght" 700, "ital" 1;
+    font-size: 3.0em;
+}
+
+
 p strong {
     font-variation-settings: "wght" 900;
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: #FFD700;
-    text-shadow: 5px 5px black;
-    padding: 5px;
+    text-shadow: 3px 3px black;
+    padding: 0vw 0.5vw 0vw 0.5vw;
 }
 
 p .highlight {
-    color: #FFD700;
+    color: #B8860B;
+    font-size: 1.3em;
 }
 
 /* Mobile Ansicht: Boxen untereinander */

@@ -1,0 +1,2195 @@
+{
+    "name": "Beta CrossFit Box",
+    "wods": [
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "FT:21-15-9:PC (60kg/135lbs)\nTTB",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Hammer Curl"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "21-15-9:DL (50kg/110lbs)\nBJ (24/20)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x8 DL (75% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:5 Burpees\n10 Lunges\n15 Air Squats",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "7RFT:3 MU\n7 DL (125kg/275lbs)\n15 Box Jumps",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 12':12 Thrusters (40kg/90lbs)\n12 Burpees",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "EMOM 10':2 PC (70% 1RM)",
+            "wod": "5RFT:400m Run\n15 KBS (24kg/53lbs)",
+            "accessory": "4x8 Bulgarian Split Squat"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x20 Russian Twists"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x15 GHD SU"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "5x3 OHS (85% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x12 Ring Rows"
+        },
+        {
+            "warmup": "3R:200m Run\n10 Push-ups\n15 RKBS",
+            "strength": "6x2 S2OH (80% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x12 Rev Hyper"
+        },
+        {
+            "warmup": "10' Jog\n2R:10 Leg Swings\n10 Shoulder Rolls",
+            "strength": "5x5 BSQ (80% 1RM)",
+            "wod": "AMRAP 15':5 PU\n10 HRPU\n15 ASQ",
+            "accessory": "3x10 Strict Press"
+        },
+        {
+            "warmup": "500m Row\n2 Rounds:10 PVC PT\n10 GM",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "EMOM 20':Min1:15/12 Cal Row\nMin2:10 WB (9kg/20lbs)",
+            "accessory": "3x15 Back Ext"
+        },
+        {
+            "warmup": "5' AB\n10 Pass-Throughs\n10 ASQ",
+            "strength": "4x6 BP (75% 1RM)",
+            "wod": "5RFT:200m Run\n10 C2B\n10 OHS (40kg/90lbs)",
+            "accessory": "3x12 Hammer Curl"
+        }
+    ]
+}
