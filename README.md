@@ -77,7 +77,7 @@ If you’re interested in collaborating, have feedback, or just want to say hi, 
 
 ### 📍 Key Project Links:
 
-- [GitHub Repository](https://github.com/yourrepo)
+- [GitHub Repository](https://github.com/densenden/wod_app.git)
 - [Live Demo](https://yourprojectdemo.com)
 - [Contributing Guide](CONTRIBUTING.md)
 
