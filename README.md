@@ -24,6 +24,10 @@ Here’s the cool part: the layout is **perfect**, all **dynamic** and **smartly
 
 Whether you’re looking to update a gym’s WOD board, display event schedules, or even manage directional signage, **Studio Sen** provides you with the freedom to manage everything from one central location. **Instant updates worldwide via HTTP**! 🌍
 
+
+<img width="1800" alt="Bildschirmfoto 2025-02-16 um 14 24 30" src="https://github.com/user-attachments/assets/308a1123-d90a-4c81-b8db-623961a4f3e9" />
+
+
 ---
 
 ## 🌈 Design Aspect
@@ -38,6 +42,9 @@ Design is at the heart of this project. Not only does it make your content look 
 - **Instant updates**: Thanks to the backend system, updates are reflected **worldwide in real-time**, via HTTP.
 
 Everything is designed to be **fast, easy to use, and aesthetically pleasing**, using a **warm yellow color (FFD700)** that keeps the atmosphere **inviting**, **professional**, and **vibrant**. 🌟
+
+
+<img width="278" alt="Bildschirmfoto 2025-02-16 um 00 20 34" src="https://github.com/user-attachments/assets/7733144b-d2e3-4e96-83b2-490823b48c66" />
 
 ---
 
