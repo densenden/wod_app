@@ -70,8 +70,8 @@ If you’re interested in collaborating, have feedback, or just want to say hi, 
 
 ### 📍 Key Project Links:
 
-- [GitHub Repository](https://github.com/yourrepo)
-- [Live Demo](https://yourprojectdemo.com)
+- [Current main branch deployment live 🔴](https://densenden.github.io/wod_app/)
+- [Project Plan](PROJECTPLAN.md)
 - [Contributing Guide](CONTRIBUTING.md)
 
 ---
