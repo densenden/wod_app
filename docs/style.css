@@ -6,8 +6,8 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #222; /* Dunkelgrau als Hintergrund */
-    color: #FFD700; /* Sonnengelb als Kontrast */
+    background-color: #222; /* Dark gray background */
+    color: #FFD700; /* Sunny yellow for contrast */
 }
 
 .header {
@@ -83,63 +83,27 @@ body {
     color: #A9A9A9;
 }
 
-
 .container {
     display: grid;
-    grid-template-columns: 4;
-    grid-template-rows: 4;
-    gap: 1vw;
-    justify-items: left;
-    align-items: left;
-    padding: 4vh 4vh 4vh 4vh;
-    width: 100vw;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: 1vh;
+    padding: 4vh;
     height: 80vh;
-}
-
-.warmup {
-    grid-column: 1;
-    grid-row: 1;
-    width: 45vw;
-    height: 20vh;
-}
-
-.strength {
-    grid-column: 2;
-    grid-row: 1;
-    width: 45vw;
-    height: 20vh;
-}
-
-.wod {
-    grid-column: 1 / span 3;
-    grid-row: 2;
-    width: 70vw;
-    height: 35vh;
-    background: rgba(15,10,10,0.5);
-}
-
-.qr {
-    grid-column: 3;
-    grid-row: 2;
-    width: 25vw;
-    height: 35vh;
-    background: white;
-}
-
-.accessory {
-    grid-column: 1 / span 1;
-    grid-row: 3;
-    width: 45vw;
-    height: 15vh;
+    width: 100vw;
+    box-sizing: border-box;
 }
 
 .box {
     display: flex;
-    overflow: hidden;
-    position: relative;
-    flex-direction: row;
-    align-items: stretch; /* Sorgt dafür, dass h2 die ganze Höhe ausfüllt */
+    flex-direction: column;
+    align-items: flex-start;
     justify-content: flex-start;
+    background: rgba(15, 10, 10, 0.5); /* Ensure background color is set */
+    padding: 0px;
+    box-sizing: border-box;
+    height: 100%; /* Ensure the box takes full height of the grid cell */
+    width: 100%; /* Ensure the box takes full width of the grid cell */
     clip-path: polygon(
         20px 0px, calc(100% - 20px) 0px, 100% 20px,
         100% calc(100% - 20px), calc(100% - 20px) 100%,
@@ -147,94 +111,48 @@ body {
     );
 }
 
-/* Vertikales Banner für h2 */
-.box h2 {
-    font-variation-settings: "wght" 700;
-    font-size: 2em;
-    text-transform: uppercase;
-    line-height: 0.7em;
-    letter-spacing: -0.3em;
-    background: #FFD700;
-    padding: 40px 20px 0px 30px;
-    margin: -10px;
-    min-width: 2em;
-    color: rgba(15,10,10,1);
-    writing-mode: vertical-rl; /* Vertikaler Text */
-    text-orientation: upright;
-    text-align: left;
-    align-self: stretch; /* Füllt die ganze Höhe der Box */
-    display: flex;
-    justify-content: left; /* Zentriert den Text vertikal */
-    align-items: center;
-    margin-right: 2vw; /* Abstand zum Text */
-}
-
-.qr h2 {
-    background: white;
-}
-
-/* Animationslogik */
-@keyframes textScroll {
-    0%, 40% {
-        transform: translateY(0);
-        opacity: 1;
-    }
-    60% {
-        transform: translateY(-100%);
-        opacity: 1;
-    }
-    80% {
-        opacity: 0;
-        transform: translateY(-100%);
-    }
-    100% {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-/* Wendet die Animation nur an, wenn der Text länger als 4 Zeilen ist */
-.box p.long-text {
-    animation: textScroll 10s ease-in-out infinite;
-}
-
-
-
-/* WOD-Text daneben */
 .box p {
     font-variation-settings: "wght" 700, "ital" 1;
-
-    display: block;
-    /* line-height: 1.5em; /* Standardzeilenhöhe */
-    max-height: calc(2em * 4); /* Berechnung für 4 Zeilen */
-    overflow: hidden;
-
-    font-size: 2.5em;
-    line-height: 2em;
-    max-height: 4em;
+    font-size: 3em;
+    line-height: 1.5em;
     color: white;
     text-align: left;
-    margin-top: 20px;
-    padding-top: 10px;
-    white-space: nowrap;
-    display: inline-block;
+    margin-top: 10px;
+}
+
+.box h2 {
+    font-variation-settings: "wght" 700;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    line-height: 2em;
+    letter-spacing: -0.2em;
+    min-height: 100%;
+    background: #FFD700;
+    padding: 10px;
+    margin: 0;
+    width: 1em;
+    color: rgba(15, 10, 10, 1);
+    writing-mode: vertical-rl; /* Vertical text */
+    text-orientation: upright;
+    text-align: left;
+    align-self: stretch; /* Fill entire box height */
+    display: flex;
+    justify-content: left; /* Center text vertically */
+    align-items: center;
     position: relative;
-    bottom: 0;
-    animation: textScroll 10s linear infinite;
 }
 
-
-.wod p {
-    font-variation-settings: "wght" 700, "ital" 1;
-    font-size: 3.0em;
+/* Scrollable content */
+.scroll {
+    overflow-y: scroll;
+    max-height: 20vh;
 }
 
-p strong {
-    font-variation-settings: "wght" 900;
-    font-size: 1.3em;
+/* Highlight styles */
+p strong.highlight-number {
     color: #FFD700;
-    text-shadow: 3px 3px black;
-    padding: 0vw 0.5vw 0vw 0.5vw;
+    font-size: 1.3em;
+    text-transform: uppercase;
 }
 
 p .highlight {
@@ -242,16 +160,66 @@ p .highlight {
     font-size: 1.3em;
 }
 
+/* Specific styles for different types */
+.type-warmup {
+    grid-column: span 6;
+    grid-row: span 2;
+}
 
-/* Mobile Ansicht: Boxen untereinander */
+.type-strength {
+    grid-column: span 6;
+    grid-row: span 2;
+}
+
+.type-mobility {
+    grid-column: span 4;
+    grid-row: span 2;
+}
+
+.type-wod {
+    grid-column: span 12;
+    grid-row: span 3;
+}
+
+.type-accessory {
+    grid-column: span 4;
+    grid-row: span 2;
+}
+
+.type-conditioning {
+    grid-column: span 6;
+    grid-row: span 2;
+}
+
+.type-stretching {
+    grid-column: span 4;
+    grid-row: span 2;
+}
+
+.type-cooldown {
+    grid-column: span 4;
+    grid-row: span 2;
+}
+
+.type-team_wod {
+    grid-column: span 6;
+    grid-row: span 2;
+}
+
+.type-xmas_wod {
+    grid-column: span 6;
+    grid-row: span 2;
+}
+
+/* Mobile layout adjustments */
 @media (max-width: 768px) {
     .container {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
     }
 
-    .box, .wod {
-        width: 90vw; /* Volle Breite auf mobilen Geräten */
+    .box {
+        width: 90vw; /* Full width on mobile devices */
         height: auto;
         flex-direction: column;
         align-items: flex-start;
