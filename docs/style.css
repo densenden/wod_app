@@ -41,6 +41,49 @@ body {
     color: #222;
 }
 
+#mode {
+    font-weight: bold;
+    color: #FFA500;
+    text-transform: uppercase;
+    display: block;
+    padding: 5px;
+}
+
+#numbers {
+    font-weight: 900;
+    color: #FFD700;
+    text-shadow: 3px 3px black;
+}
+
+#movement {
+    font-weight: bold;
+    color: #D4A017;
+    cursor: pointer;
+    position: relative;
+    text-decoration: underline;
+}
+
+#movement:hover::after {
+    content: attr(title);
+    position: absolute;
+    background: #FFD700;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    z-index: 10;
+}
+
+#units {
+    font-style: italic;
+    color: #A9A9A9;
+}
+
+
 .container {
     display: grid;
     grid-template-columns: 2;
@@ -144,6 +187,7 @@ p .highlight {
     color: #D4A017;
     font-size: 1.3em;
 }
+
 
 /* Mobile Ansicht: Boxen untereinander */
 @media (max-width: 768px) {

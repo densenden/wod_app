@@ -1,19 +1,19 @@
-export const crossfitDict = {
-    movements: [
+{
+    "movements": [
         "Back Squat", "Bench Press", "Deadlift", "Overhead Squat", "Front Squat",
         "Power Clean", "Hang Clean", "Turkish Get-Up", "Sit-Up", "Double Under",
         "Tabata Training", "Sumo Deadlift High Pull", "Dumbbell", "Box Jump",
         "Box Jump Over", "Good Mornings", "Russian Kettlebell Swing", "Reverse Hyperextension",
         "Ground to Overhead"
     ],
-    modes: [
+    "modes": [
         "AMRAP", "RFT", "FT", "EMOM", "Tabata", "Chipper", "Ladder", "Partner WOD",
         "Benchmark", "Hero WOD", "Teams of 2", "Teams of 3", "Teams of 4"
     ],
-    units: [
-        "kg", "lbs", "m", "mi", "km", "ft", "yrd", "sec", "'", """, "min",
+    "units": [
+        "kg", "lbs", "m", "mi", "km", "ft", "yrd", "sec", "'", """, "min"
     ],
-    abbreviations: {
+    "abbreviations": {
         "1RM": "One-Rep Max",
         "AMRAP": "As Many Rounds (or Reps) As Possible",
         "BSQ": "Back Squat",
@@ -54,4 +54,4 @@ export const crossfitDict = {
         "Rev Hyper": "Reverse Hyperextension",
         "GTOH": "Ground to Overhead"
     }
-};
+}
