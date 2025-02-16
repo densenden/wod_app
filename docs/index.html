@@ -5,37 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Workout of the Day</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Tourney:wght@100..900&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Symbols+Outlined" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 </head>
 <body>
     <div class="header">
         <img src="assets/logo.png" alt="Box Logo" class="logo">
         <h1 id="box-name">CrossFit Alpha Box</h1>
-        <span id="class-type" class="class">Workout of the Day</span>
-        <span id="date" class="date"></span>
+        <span id="class-type">Workout of the Day</span>
+        <span id="date"></span>
     </div>
-    <div class="container">
-        <div class="box warmup">
-            <h2>WU</h2>
-            <p>Loading...</p>
-</div>
-        <div class="box strength">
-            <h2>ST</h2>
-            <p>Loading...</p>
-        </div>
-        <div class="box wod">
-            <h2>WOD</h2>
-            <p>Loading...</p>
-        </div>
-        <div class="box qr">
-            <h2>QR</h2>
-            <p>QR missing</p>
-        </div>
-        <div class="box accessory">
-            <h2>ACC</h2>
-            <p>Loading...</p>
-        </div>
+    <div class="container" id="workout-container">
+        <div class="box warmup"><h2>WU</h2><p>Loading...</p></div>
+        <div class="box strength"><h2>ST</h2><p>Loading...</p></div>
+        <div class="box wod"><h2>WOD</h2><p>Loading...</p></div>
+        <div class="box qr"><h2>QR</h2><div id="qrcode"></div></div>
+        <div class="box accessory"><h2>ACC</h2><p>Loading...</p></div>
     </div>
     <script src="script.js"></script>
 </body>
