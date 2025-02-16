@@ -96,11 +96,11 @@ body {
 
 .box {
     display: flex;
-    flex-direction: column;
+    flex-direction: row; /* Ändert die Richtung von column zu row */
     align-items: flex-start;
     justify-content: flex-start;
     background: rgba(15, 10, 10, 0.5); /* Ensure background color is set */
-    padding: 0px;
+    padding: 10px;
     box-sizing: border-box;
     height: 100%; /* Ensure the box takes full height of the grid cell */
     width: 100%; /* Ensure the box takes full width of the grid cell */
@@ -117,7 +117,8 @@ body {
     line-height: 1.5em;
     color: white;
     text-align: left;
-    margin-top: 10px;
+    margin-top: 0px;
+    padding-left: 1em;
 }
 
 .box h2 {
@@ -129,7 +130,7 @@ body {
     min-height: 100%;
     background: #FFD700;
     padding: 10px;
-    margin: 0;
+    margin: -10px;
     width: 1em;
     color: rgba(15, 10, 10, 1);
     writing-mode: vertical-rl; /* Vertical text */
@@ -145,7 +146,6 @@ body {
 /* Scrollable content */
 .scroll {
     overflow-y: scroll;
-    max-height: 20vh;
 }
 
 /* Highlight styles */
