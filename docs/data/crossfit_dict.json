@@ -1,0 +1,57 @@
+export const crossfitDict = {
+    movements: [
+        "Back Squat", "Bench Press", "Deadlift", "Overhead Squat", "Front Squat",
+        "Power Clean", "Hang Clean", "Turkish Get-Up", "Sit-Up", "Double Under",
+        "Tabata Training", "Sumo Deadlift High Pull", "Dumbbell", "Box Jump",
+        "Box Jump Over", "Good Mornings", "Russian Kettlebell Swing", "Reverse Hyperextension",
+        "Ground to Overhead"
+    ],
+    modes: [
+        "AMRAP", "RFT", "FT", "EMOM", "Tabata", "Chipper", "Ladder", "Partner WOD",
+        "Benchmark", "Hero WOD", "Teams of 2", "Teams of 3", "Teams of 4"
+    ],
+    units: [
+        "kg", "lbs", "m", "mi", "km", "ft", "yrd", "sec", "'", """, "min",
+    ],
+    abbreviations: {
+        "1RM": "One-Rep Max",
+        "AMRAP": "As Many Rounds (or Reps) As Possible",
+        "BSQ": "Back Squat",
+        "BP": "Bench Press",
+        "BW": "Bodyweight",
+        "DL": "Deadlift",
+        "EMOM": "Every Minute on the Minute",
+        "GHD": "Glute-Ham Developer",
+        "OHS": "Overhead Squat",
+        "PVC": "Polyvinyl Chloride (leichtes Übungsrohr)",
+        "RX": "Prescribed (Standard-Gewicht und Bewegungsumfang)",
+        "TTB": "Toes-to-Bar",
+        "WOD": "Workout of the Day",
+        "S2OH": "Shoulder to Overhead",
+        "HSPU": "Handstand Push-Up",
+        "T2B": "Toes to Bar",
+        "C2B": "Chest to Bar",
+        "WB": "Wall Ball",
+        "KBS": "Kettlebell Swing",
+        "MU": "Muscle-Up",
+        "PU": "Pull-Up",
+        "HRPU": "Hand-Release Push-Up",
+        "FSQ": "Front Squat",
+        "PC": "Power Clean",
+        "HC": "Hang Clean",
+        "TGU": "Turkish Get-Up",
+        "SU": "Sit-Up",
+        "DU": "Double Under",
+        "TT": "Tabata Training",
+        "RFT": "Rounds for Time",
+        "FT": "For Time",
+        "SDHP": "Sumo Deadlift High Pull",
+        "DB": "Dumbbell",
+        "BJ": "Box Jump",
+        "BJO": "Box Jump Over",
+        "GM": "Good Mornings",
+        "RKBS": "Russian Kettlebell Swing",
+        "Rev Hyper": "Reverse Hyperextension",
+        "GTOH": "Ground to Overhead"
+    }
+};
