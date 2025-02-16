@@ -86,7 +86,7 @@ body {
 
 .container {
     display: grid;
-    grid-template-columns: 2;
+    grid-template-columns: 4;
     grid-template-rows: 4;
     gap: 1vw;
     justify-items: left;
@@ -111,11 +111,19 @@ body {
 }
 
 .wod {
-    grid-column: 1 / span 2;
+    grid-column: 1 / span 3;
     grid-row: 2;
-    width: 95vw;
+    width: 70vw;
     height: 35vh;
     background: rgba(15,10,10,0.5);
+}
+
+.qr {
+    grid-column: 3;
+    grid-row: 2;
+    width: 25vw;
+    height: 35vh;
+    background: white;
 }
 
 .accessory {
@@ -127,6 +135,8 @@ body {
 
 .box {
     display: flex;
+    overflow: hidden;
+    position: relative;
     flex-direction: row;
     align-items: stretch; /* Sorgt dafür, dass h2 die ganze Höhe ausfüllt */
     justify-content: flex-start;
@@ -159,16 +169,60 @@ body {
     margin-right: 2vw; /* Abstand zum Text */
 }
 
+.qr h2 {
+    background: white;
+}
+
+/* Animationslogik */
+@keyframes textScroll {
+    0%, 40% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+    60% {
+        transform: translateY(-100%);
+        opacity: 1;
+    }
+    80% {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Wendet die Animation nur an, wenn der Text länger als 4 Zeilen ist */
+.box p.long-text {
+    animation: textScroll 10s ease-in-out infinite;
+}
+
+
+
 /* WOD-Text daneben */
 .box p {
     font-variation-settings: "wght" 700, "ital" 1;
+
+    display: block;
+    /* line-height: 1.5em; /* Standardzeilenhöhe */
+    max-height: calc(2em * 4); /* Berechnung für 4 Zeilen */
+    overflow: hidden;
+
     font-size: 2.5em;
     line-height: 2em;
+    max-height: 4em;
     color: white;
     text-align: left;
     margin-top: 20px;
     padding-top: 10px;
+    white-space: nowrap;
+    display: inline-block;
+    position: relative;
+    bottom: 0;
+    animation: textScroll 10s linear infinite;
 }
+
 
 .wod p {
     font-variation-settings: "wght" 700, "ital" 1;
