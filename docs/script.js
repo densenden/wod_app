@@ -22,12 +22,17 @@ document.addEventListener("DOMContentLoaded", async function () {
         const randomIndex = Math.floor(Math.random() * data.wods.length);
         const wod = data.wods[randomIndex];
 
+        // Set the class type
+        document.getElementById("class-type").textContent = wod.class || "Workout of the day.";
+
         // Format and display WOD sections dynamically
         const container = document.getElementById("container");
         container.innerHTML = ''; // Clear existing content
 
         Object.keys(wod).forEach(key => {
-            container.appendChild(createBox(key, wod[key], crossfitAbbr, contentTypes, units));
+            if (key !== 'class') { // Exclude the 'class' key
+                container.appendChild(createBox(key, wod[key], crossfitAbbr, contentTypes, units));
+            }
         });
 
         // Set the current date
