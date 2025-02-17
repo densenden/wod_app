@@ -36,6 +36,9 @@ document.addEventListener("DOMContentLoaded", async function () {
                 }
             });
 
+            // Add QR box
+            container.appendChild(createBox('qr', '', crossfitAbbr, movements, units, modes));
+
             // Set the current date
             const dateElement = document.getElementById("date");
             const currentDate = new Date();
@@ -115,21 +118,28 @@ document.addEventListener("DOMContentLoaded", async function () {
         return formattedText;
     }
 
-    // Create a box element dynamically
-    function createBox(type, content, crossfitAbbr, movements, units, modes) {
-        const box = document.createElement("div");
-        box.className = `box type-${type}`;
+// Create a box element dynamically
+function createBox(type, content, crossfitAbbr, movements, units, modes) {
+    const box = document.createElement("div");
+    box.className = `box type-${type}`;
 
-        const title = document.createElement("h2");
-        title.textContent = type.toUpperCase();
-        box.appendChild(title);
+    const title = document.createElement("h2");
+    title.textContent = type.toUpperCase();
+    box.appendChild(title);
 
+    if (type === 'qr') {
+        const qrCode = document.createElement("img");
+        qrCode.src = `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=${encodeURIComponent(window.location.href)}`;
+        qrCode.alt = "QR Code";
+        qrCode.style.width = "200px";
+        qrCode.style.height = "200px";
+        box.appendChild(qrCode);
+    } else {
         const text = document.createElement("p");
         text.innerHTML = formatText(content, crossfitAbbr, movements, units, modes);
-        if (content.length > 20) {
-            text.classList.add("scroll");
-        }
-        box.appendChild(text);
 
-        return box;
+        box.appendChild(text);
     }
+
+    return box;
+}
