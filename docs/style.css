@@ -6,15 +6,15 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #222; /* Dark gray background */
-    color: #FFD700; /* Sunny yellow for contrast */
+    background-color: #222;
+    color: #FFD700;
 }
 
 .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1vh 4vh 1vh 4vh;
+    padding: 1vh 4vh;
     background: #000;
     color: white;
     font-size: 2em;
@@ -32,7 +32,7 @@ body {
 }
 
 #class-type {
-    margin: 0px 0px 0px 20px;
+    margin: 0 0 0 20px;
     color: #FFD700;
 }
 
@@ -40,6 +40,7 @@ body {
     margin-left: 20px;
     color: #222;
 }
+
 .abbreviation {
     font-size: 0.8em;
     color: #FFD700;
@@ -58,9 +59,11 @@ body {
     color: #FFD700;
     text-shadow: 3px 3px black;
 }
+
 .single-digit {
     font-size: 1.5em;
 }
+
 .tens {
     font-size: 1.5em;
 }
@@ -69,6 +72,7 @@ body {
     font-size: 0.8em;
     color: #A9A9A9;
 }
+
 #movement {
     font-weight: bold;
     color: #D4A017;
@@ -110,29 +114,19 @@ body {
 
 .box {
     display: flex;
-    flex-direction: row; /* Ändert die Richtung von column zu row */
+    flex-direction: row;
     align-items: flex-start;
     justify-content: flex-start;
-    background: rgba(15, 10, 10, 0.5); /* Ensure background color is set */
+    background: rgba(15, 10, 10, 0.5);
     padding: 10px;
     box-sizing: border-box;
-    height: 100%; /* Ensure the box takes full height of the grid cell */
-    width: 100%; /* Ensure the box takes full width of the grid cell */
+    height: 100%;
+    width: 100%;
     clip-path: polygon(
         20px 0px, calc(100% - 20px) 0px, 100% 20px,
         100% calc(100% - 20px), calc(100% - 20px) 100%,
         20px 100%, 0px calc(100% - 20px), 0px 0px
     );
-}
-
-.box p {
-    font-variation-settings: "wght" 700, "ital" 1;
-    font-size: 3em;
-    line-height: 1.5em;
-    color: white;
-    text-align: left;
-    margin-top: 0px;
-    padding-left: 1em;
 }
 
 .box h2 {
@@ -141,28 +135,36 @@ body {
     text-transform: uppercase;
     line-height: 2em;
     letter-spacing: -0.2em;
-    min-height: 100%;
     background: #FFD700;
     padding: 10px;
     margin: -10px;
-    width: 1em;
+    width: auto;
     color: rgba(15, 10, 10, 1);
     writing-mode: vertical-rl; /* Vertical text */
     text-orientation: upright;
     text-align: left;
-    align-self: stretch; /* Fill entire box height */
+    align-self: stretch;
     display: flex;
-    justify-content: left; /* Center text vertically */
+    justify-content: left;
     align-items: center;
     position: relative;
 }
 
-/* Scrollable content */
+.box p {
+    font-variation-settings: "wght" 700, "ital" 1;
+    font-size: 3em;
+    line-height: 1.5em;
+    color: white;
+    text-align: left;
+    margin-top: 0;
+    padding-left: 1em;
+    flex: 1;
+}
+
 .scroll {
     overflow-y: scroll;
 }
 
-/* Highlight styles */
 p strong.highlight-number {
     color: #FFD700;
     font-size: 1.3em;
@@ -174,18 +176,12 @@ p .highlight {
     font-size: 1.3em;
 }
 
-/* Specific styles for different types */
-.type-warmup {
+.type-warmup, .type-strength, .type-conditioning, .type-team_wod, .type-xmas_wod {
     grid-column: span 6;
     grid-row: span 2;
 }
 
-.type-strength {
-    grid-column: span 6;
-    grid-row: span 2;
-}
-
-.type-mobility {
+.type-mobility, .type-accessory, .type-stretching, .type-cooldown {
     grid-column: span 4;
     grid-row: span 2;
 }
@@ -195,47 +191,43 @@ p .highlight {
     grid-row: span 3;
 }
 
-.type-accessory {
-    grid-column: span 4;
-    grid-row: span 2;
-}
-
-.type-conditioning {
-    grid-column: span 6;
-    grid-row: span 2;
-}
-
-.type-stretching {
-    grid-column: span 4;
-    grid-row: span 2;
-}
-
-.type-cooldown {
-    grid-column: span 4;
-    grid-row: span 2;
-}
-
-.type-team_wod {
-    grid-column: span 6;
-    grid-row: span 2;
-}
-
-.type-xmas_wod {
-    grid-column: span 6;
-    grid-row: span 2;
-}
-
-/* Mobile layout adjustments */
 @media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .logo {
+        width: 200px;
+        height: 200px;
+    }
+
+    #box-name, #class-type, #date {
+        margin: 10px 0;
+    }
+
     .container {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
     }
 
     .box {
-        width: 90vw; /* Full width on mobile devices */
+        width: 90vw;
         height: auto;
         flex-direction: column;
         align-items: flex-start;
+    }
+
+    .box p {
+        padding-left: 0;
+        padding-top: 0.5em;
+    }
+
+    .box h2 {
+        writing-mode: horizontal-tb; /* Horizontal text */
+        text-orientation: mixed;
+        letter-spacing: 0em;
+        padding: 10px;
     }
 }
