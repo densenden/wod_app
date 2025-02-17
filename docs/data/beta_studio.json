@@ -1,329 +1,47 @@
 {
-  "name": "Beta Studio",
+  "name": "Beta Studio - Optimized WODs",
   "wods": [
     {
-      "warmup": "10 min Assault Bike + Mobility Drills",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
       "warmup": "5 min Row + Dynamic Stretching",
+      "strength": "4x4 Front Squat (85% 1RM)",
+      "wod": "AMRAP 16min: 12 Box Jumps, 9 Pull-Ups, 6 Deadlifts (100kg)",
+      "accessory": "3x12 Bulgarian Split Squats"
+    },
+    {
+      "warmup": "10 min Assault Bike + Mobility Drills",
       "strength": "5x3 Deadlift (90% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "accessory": "3x10 Back Extensions"
+      "wod": "FT: 21-15-9: Thrusters (40kg), C2B Pull-Ups",
+      "cooldown": "5 min Walk + Stretching"
     },
     {
-      "warmup": "15 min Treadmill Walk",
-      "strength": "3x5 Bench Press (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
+      "warmup": "8 min Treadmill Walk + Shoulder Mobility",
+      "strength": "4x6 Bench Press (80% 1RM)",
+      "wod": "EMOM 12min: 4 Power Cleans (70kg), 8 Push-Ups",
+      "accessory": "3x15 Band Pull-Aparts"
     },
     {
-      "warmup": "10 min Bike + Dynamic Stretching",
+      "warmup": "5 min Jump Rope + Dynamic Stretching",
       "strength": "5x5 Overhead Squat (75% 1RM)",
-      "conditioning": "20 min Row",
-      "cooldown": "5 min Walk"
+      "conditioning": "18 min Row (moderate pace)",
+      "cooldown": "3 min Deep Breathing"
     },
     {
-      "warmup": "10 min Jump Rope",
+      "warmup": "7 min Bike + Hip Mobility",
       "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
+      "wod": "AMRAP 14min: 10 KB Swings, 8 Sit-Ups, 12 Double Unders",
+      "stretching": "8 min Static Stretching"
     },
     {
-      "warmup": "5 min Row + Mobility Drills",
+      "warmup": "6 min Row + Thoracic Mobility",
       "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
+      "wod": "FT: 5 Rounds: 12 Wall Balls, 8 Pull-Ups, 10 KB Goblet Squats",
+      "cooldown": "Foam Rolling + Deep Breathing"
     },
     {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Row",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
-    },
-    {
-      "warmup": "10 min Bike",
-      "strength": "5x3 Back Squat (85% 1RM)",
-      "wod": "AMRAP 15min: 10 Kettlebell Swings, 10 Sit-Ups, 10 Double Unders",
-      "stretching": "10 min Static Stretching"
-    },
-    {
-      "warmup": "5 min Row + Mobility Drills",
-      "strength": "5x5 Deadlift (80% 1RM)",
-      "wod": "FT: 5 Rounds: 10 Wall Balls, 10 Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "Dynamic Stretching + 10 min Bike",
-      "strength": "5x5 Front Squat (80% 1RM)",
-      "mobility": "10 min Shoulder Mobility",
-      "wod": "AMRAP 20min: 15 Box Jumps, 10 Pull-Ups, 5 Deadlifts (100kg)"
-    },
-    {
-      "warmup": "10 min Assault Bike",
-      "strength": "5x5 Bench Press (75% 1RM)",
-      "wod": "FT: 21-15-9: Thrusters (40kg), Pull-Ups",
-      "cooldown": "5 min Walk"
-    },
-    {
-      "warmup": "10 min Bike + Dynamic Stretching",
-      "strength": "5x3 Overhead Squat (85% 1RM)",
-      "mobility": "10 min Hip Mobility",
-      "wod": "EMOM 10min: 3 Power Cleans (60kg), 6 Push-Ups"
+      "warmup": "Dynamic Stretching + 8 min Bike",
+      "strength": "4x4 Front Squat (85% 1RM)",
+      "wod": "AMRAP 18min: 14 Box Jumps, 10 Ring Rows, 5 Deadlifts (110kg)",
+      "mobility": "10 min Shoulder Mobility"
     }
   ]
 }

@@ -86,10 +86,10 @@ body {
 .container {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: repeat(6, 1fr);
+    grid-template-rows: repeat(7, 1fr);
     gap: 1vh;
-    padding: 4vh;
-    height: 80vh;
+    padding: 2vh;
+    height: 90vh;
     width: 100vw;
     box-sizing: border-box;
 }

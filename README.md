@@ -80,7 +80,7 @@ If you’re interested in collaborating, have feedback, or just want to say hi, 
 [🔴 Current live deployment on main](https://densenden.github.io/wod_app/)
 
 [📋 Project Plan](PROJECTPLAN.md)
-
+[🤷🏾‍♂️ User Journey](USERJOURNEY.md)
 [🙏🏽 Contributing Guide](CONTRIBUTING.md)
 
 ---

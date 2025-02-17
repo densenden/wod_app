@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         const crossfitData = await loadCrossfitDict();
         const crossfitAbbr = crossfitData.abbreviations || {};
         const contentTypes = crossfitData.types || {};
+        const units = crossfitData.units || {};
 
         // Fetch WOD data
         const response = await fetch("./data/beta_studio.json");
@@ -21,16 +22,12 @@ document.addEventListener("DOMContentLoaded", async function () {
         const randomIndex = Math.floor(Math.random() * data.wods.length);
         const wod = data.wods[randomIndex];
 
-        // Randomly select 3-6 elements from the WOD, ensuring they make sense
-        const wodKeys = Object.keys(wod);
-        const randomWodKeys = getRandomElements(wodKeys, 3, 6);
-
         // Format and display WOD sections dynamically
         const container = document.getElementById("container");
         container.innerHTML = ''; // Clear existing content
 
-        randomWodKeys.forEach(key => {
-            container.appendChild(createBox(key, wod[key], crossfitAbbr, contentTypes));
+        Object.keys(wod).forEach(key => {
+            container.appendChild(createBox(key, wod[key], crossfitAbbr, contentTypes, units));
         });
 
         // Set the current date
@@ -62,25 +59,40 @@ async function loadCrossfitDict() {
     }
 }
 
-// Reset text formatting for WOD
-function formatText(text, crossfitAbbr, type) {
+// Format WOD text with proper line breaks and highlights
+function formatText(text, crossfitAbbr, units) {
     if (!text) return "No WOD available";
 
     let formattedText = text;
 
-    // Reset all custom formatting
-    formattedText = formattedText.replace(/<br>/g, "");
-    formattedText = formattedText.replace(/<strong class="highlight-number">.*?<\/strong>/g, "");
-    formattedText = formattedText.replace(/<span class="highlight">.*?<\/span>/g, "");
+    // Insert line breaks after colons
+    formattedText = formattedText.replace(/(:)/g, "$1<br>");
 
-    // Insert a line break after "Min:" or any abbreviation ending with ":"
-    formattedText = formattedText.replace(/(\b\w+\s*\d*):/g, "$1:<br>");
+    // Highlight CrossFit abbreviations, movements, and other terms with tooltips
+    Object.keys(crossfitAbbr).forEach(abbr => {
+        let regex = new RegExp(`\\b${abbr}\\b`, "g");
+        formattedText = formattedText.replace(regex, `<span class="highlight" data-tooltip="${crossfitAbbr[abbr]}">${abbr}</span>`);
+    });
+
+    // Highlight numbers based on specified criteria
+    formattedText = formattedText.replace(/(\d+)(kg|lbs|m|sec|reps)?/g, (match, p1, p2) => {
+        let className = "number";
+        if (p1.length === 1) {
+            className = "single-digit";
+        } else if (p1 % 10 === 0) {
+            className = "tens";
+        }
+        if (p2) {
+            className += ` unit-${p2}`;
+        }
+        return `<span class="${className}">${match}</span>`;
+    });
 
     return formattedText;
 }
 
 // Create a box element dynamically
-function createBox(type, content, crossfitAbbr, contentTypes) {
+function createBox(type, content, crossfitAbbr, contentTypes, units) {
     const box = document.createElement("div");
     box.className = `box type-${type}`;
 
@@ -89,7 +101,7 @@ function createBox(type, content, crossfitAbbr, contentTypes) {
     box.appendChild(title);
 
     const text = document.createElement("p");
-    text.innerHTML = formatText(content, crossfitAbbr, type);
+    text.innerHTML = formatText(content, crossfitAbbr, units);
     if (content.length > 20) {
         text.classList.add("scroll");
     }
@@ -100,15 +112,4 @@ function createBox(type, content, crossfitAbbr, contentTypes) {
     }
 
     return box;
-}
-
-// Get random elements from an array
-function getRandomElements(arr, min, max) {
-    const result = [];
-    const count = Math.floor(Math.random() * (max - min + 1)) + min;
-    const shuffled = arr.sort(() => 0.5 - Math.random());
-    for (let i = 0; i < count; i++) {
-        result.push(shuffled[i]);
-    }
-    return result;
 }
