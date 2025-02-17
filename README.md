@@ -82,6 +82,9 @@ If you’re interested in collaborating, have feedback, or just want to say hi, 
 [📋 Project Plan](PROJECTPLAN.md)
 [🤷🏾‍♂️ User Journey](USERJOURNEY.md)
 [🙏🏽 Contributing Guide](CONTRIBUTING.md)
+[⛏️ Task Blocks](TASKS.md)
+[📚 Frameworks Planning](FRAMEWORKS.md)
+
 
 ---
 
