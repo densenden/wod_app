@@ -82,11 +82,8 @@ function formatText(text, crossfitAbbr, movements, units, modes) {
 
     // Highlight movements
     movements.forEach(movement => {
-        const abbr = Object.keys(crossfitAbbr).find(key => crossfitAbbr[key] === movement);
-        if (abbr) {
-            let regex = new RegExp(`\\b${movement}\\b`, "g");
-            formattedText = formattedText.replace(regex, `<span class="movement" title="${movement}">${abbr}</span>`);
-        }
+        let regex = new RegExp(`\\b${movement}\\b`, "g");
+        formattedText = formattedText.replace(regex, `<span class="movement" title="${movement}">${movement}</span>`);
     });
 
     // Highlight units
@@ -99,6 +96,7 @@ function formatText(text, crossfitAbbr, movements, units, modes) {
 
     // Highlight modes with additional class
     modes.forEach(mode => {
+        console.log(`Processing mode: ${mode}`); // Debugging statement
         let regex = new RegExp(`\\b${mode}\\b`, "g");
         formattedText = formattedText.replace(regex, `<span class="mode" data-tooltip="${mode}">${mode}</span>`);
     });

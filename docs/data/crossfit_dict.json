@@ -33,7 +33,9 @@
         "Hero WOD",
         "Teams of 2",
         "Teams of 3",
-        "Teams of 4"
+        "Teams of 4",
+        "Rounds",
+        "Reps",
     ],
     "units": [
         "kg",
