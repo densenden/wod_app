@@ -1,0 +1,75 @@
+{
+  "name": "BetaMode CrossFit",
+  "wods": [
+    {
+      "warmup": "5 min Row + 10 Pass-Throughs + 10 Air Squats",
+      "strength": "5x5 Back Squat (80% 1RM)",
+      "wod": "AMRAP 12min: 12 Thrusters (40kg), 12 Burpees, 12 Box Jumps",
+      "accessory": "3x15 GHD Sit-Ups",
+      "cooldown": "5 min Stretching"
+    },
+    {
+      "warmup": "10 min Yoga Flow: Sun Salutations",
+      "skill": "Handstand Practice: 5x30 sec Hold",
+      "wod": "FT: 21-15-9: Deadlift (70kg), Toes-to-Bar, Wall Balls (9kg)",
+      "mobility": "10 min Hip Opener Stretches",
+      "breathing": "3 min Box Breathing"
+    },
+    {
+      "warmup": "8 min Bike + Thoracic Mobility Drills",
+      "strength": "4x6 Bench Press (75% 1RM)",
+      "wod": "EMOM 15min: Min 1: 5 Power Cleans (60kg), Min 2: 10 Push-Ups, Min 3: 15 Air Squats",
+      "accessory": "3x12 Ring Rows",
+      "cooldown": "5 min Foam Rolling"
+    },
+    {
+      "warmup": "3 Rounds: 5 Burpees, 10 Lunges, 15 Air Squats",
+      "strength": "5x3 Overhead Squat (85% 1RM)",
+      "wod": "5 RFT: 200m Run, 10 C2B Pull-Ups, 10 OHS (40kg)",
+      "accessory": "3x15 Russian Twists",
+      "stretching": "8 min Static Stretching"
+    },
+    {
+      "warmup": "10 min Dynamic Stretching + 500m Row",
+      "strength": "EMOM 10min: 2 Hang Cleans (70% 1RM)",
+      "wod": "AMRAP 20min: 5 Pull-Ups, 10 HR Push-Ups, 15 KB Swings (24kg), 20 Double Unders",
+      "accessory": "3x15 Band Pull-Aparts",
+      "cooldown": "5 min Deep Breathing"
+    },
+    {
+      "warmup": "5 min Jump Rope + Shoulder Mobility",
+      "strength": "4x4 Front Squat (85% 1RM)",
+      "wod": "AMRAP 18min: 14 Box Jumps, 10 Ring Rows, 5 Deadlifts (110kg)",
+      "mobility": "10 min Shoulder Opener Stretches",
+      "breathing": "3 min Alternate Nostril Breathing"
+    },
+    {
+      "warmup": "10 min Yoga Flow: Warrior Series",
+      "skill": "Muscle-Up Practice: 5x3 Reps",
+      "wod": "FT: 5 Rounds: 12 Wall Balls, 8 Pull-Ups, 10 KB Goblet Squats",
+      "accessory": "3x12 Reverse Hypers",
+      "cooldown": "5 min Meditation"
+    },
+    {
+      "warmup": "8 min Treadmill Walk + Dynamic Stretching",
+      "strength": "5x5 Deadlift (80% 1RM)",
+      "wod": "AMRAP 15min: 10 KB Swings, 8 Sit-Ups, 12 Double Unders",
+      "accessory": "3x15 Bulgarian Split Squats",
+      "stretching": "8 min Static Stretching"
+    },
+    {
+      "warmup": "10 min Assault Bike + Mobility Drills",
+      "strength": "4x6 Bench Press (75% 1RM)",
+      "wod": "EMOM 12min: Min 1: 4 Power Cleans (70kg), Min 2: 8 Push-Ups, Min 3: 12 Air Squats",
+      "accessory": "3x12 Ring Rows",
+      "cooldown": "5 min Foam Rolling"
+    },
+    {
+      "warmup": "3 Rounds: 5 Burpees, 10 Lunges, 15 Air Squats",
+      "strength": "5x3 Overhead Squat (85% 1RM)",
+      "wod": "TEAM WOD: 30min AMRAP (Teams of 3):\n- 400m Run (each)\n- 15 Thrusters (50kg)\n- 20 C2B Pull-Ups\n- 25 Wall Balls (9kg)\n- 30 Double Unders",
+      "accessory": "3x15 Russian Twists",
+      "stretching": "10 min Partner Stretching"
+    }
+  ]
+}

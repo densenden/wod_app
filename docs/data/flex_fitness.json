@@ -1,0 +1,65 @@
+{
+  "name": "Flex Fitness Studio",
+  "wods": [
+    {
+      "warmup": "10 min Treadmill Walk",
+      "strength": "4x10 Dumbbell Bench Press",
+      "wod": "AMRAP 15min: 12 Dumbbell Thrusters, 10 Burpees, 8 Sit-Ups",
+      "accessory": "3x15 Tricep Pushdowns"
+    },
+    {
+      "warmup": "5 min Dynamic Stretching",
+      "strength": "4x10 Lat Pulldown",
+      "wod": "FT: 21-15-9: Dumbbell Deadlifts, Box Jumps, Push-Ups",
+      "cooldown": "5 min Stretching"
+    },
+    {
+      "warmup": "8 min Bike + Shoulder Mobility",
+      "strength": "4x10 Shoulder Press",
+      "wod": "EMOM 12min: 4 Dumbbell Cleans, 8 Push-Ups",
+      "accessory": "3x15 Lateral Raises"
+    },
+    {
+      "warmup": "5 min Jump Rope + Dynamic Stretching",
+      "strength": "4x10 Romanian Deadlifts",
+      "conditioning": "18 min Row (moderate pace)",
+      "cooldown": "3 min Deep Breathing"
+    },
+    {
+      "warmup": "7 min Bike + Hip Mobility",
+      "strength": "4x10 Goblet Squats",
+      "wod": "AMRAP 14min: 10 KB Swings, 8 Sit-Ups, 12 Double Unders",
+      "stretching": "8 min Static Stretching"
+    },
+    {
+      "warmup": "6 min Row + Thoracic Mobility",
+      "strength": "4x10 Deadlifts",
+      "wod": "FT: 5 Rounds: 12 Wall Balls, 8 Pull-Ups, 10 KB Goblet Squats",
+      "cooldown": "Foam Rolling + Deep Breathing"
+    },
+    {
+      "warmup": "Dynamic Stretching + 8 min Bike",
+      "strength": "4x10 Front Squats",
+      "wod": "AMRAP 18min: 14 Box Jumps, 10 Ring Rows, 5 Deadlifts",
+      "mobility": "10 min Shoulder Mobility"
+    },
+    {
+      "warmup": "10 min Treadmill Walk",
+      "strength": "4x10 Dumbbell Bench Press",
+      "wod": "AMRAP 15min: 12 Dumbbell Thrusters, 10 Burpees, 8 Sit-Ups",
+      "accessory": "3x15 Tricep Pushdowns"
+    },
+    {
+      "warmup": "5 min Dynamic Stretching",
+      "strength": "4x10 Lat Pulldown",
+      "wod": "FT: 21-15-9: Dumbbell Deadlifts, Box Jumps, Push-Ups",
+      "cooldown": "5 min Stretching"
+    },
+    {
+      "warmup": "8 min Bike + Shoulder Mobility",
+      "strength": "4x10 Shoulder Press",
+      "wod": "EMOM 12min: 4 Dumbbell Cleans, 8 Push-Ups",
+      "accessory": "3x15 Lateral Raises"
+    }
+  ]
+}

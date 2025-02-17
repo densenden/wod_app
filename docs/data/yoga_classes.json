@@ -1,0 +1,65 @@
+{
+  "name": "Zen Yoga Studio",
+  "wods": [
+    {
+      "warmup": "10 min Sun Salutations",
+      "flow": "Vinyasa Flow: 5 Rounds",
+      "focus": "Balance Poses: Tree, Warrior III, Half Moon",
+      "cooldown": "5 min Savasana"
+    },
+    {
+      "warmup": "5 min Cat-Cow Stretch",
+      "flow": "Hatha Flow: 4 Rounds",
+      "focus": "Hip Openers: Pigeon, Lizard, Frog Pose",
+      "cooldown": "5 min Meditation"
+    },
+    {
+      "warmup": "8 min Gentle Stretching",
+      "flow": "Yin Yoga: 3 Rounds",
+      "focus": "Deep Stretches: Dragon, Butterfly, Sphinx",
+      "cooldown": "5 min Breathing Exercises"
+    },
+    {
+      "warmup": "10 min Sun Salutations",
+      "flow": "Power Yoga: 6 Rounds",
+      "focus": "Core Work: Boat, Plank, Side Plank",
+      "cooldown": "5 min Savasana"
+    },
+    {
+      "warmup": "5 min Cat-Cow Stretch",
+      "flow": "Restorative Yoga: 4 Rounds",
+      "focus": "Relaxation Poses: Child's Pose, Supported Bridge, Legs-Up-The-Wall",
+      "cooldown": "5 min Meditation"
+    },
+    {
+      "warmup": "8 min Gentle Stretching",
+      "flow": "Ashtanga Flow: 5 Rounds",
+      "focus": "Strength Poses: Crow, Side Crow, Headstand",
+      "cooldown": "5 min Breathing Exercises"
+    },
+    {
+      "warmup": "10 min Sun Salutations",
+      "flow": "Vinyasa Flow: 4 Rounds",
+      "focus": "Twists: Seated Twist, Revolved Triangle, Revolved Side Angle",
+      "cooldown": "5 min Savasana"
+    },
+    {
+      "warmup": "5 min Cat-Cow Stretch",
+      "flow": "Hatha Flow: 3 Rounds",
+      "focus": "Backbends: Cobra, Upward Dog, Wheel",
+      "cooldown": "5 min Meditation"
+    },
+    {
+      "warmup": "8 min Gentle Stretching",
+      "flow": "Yin Yoga: 4 Rounds",
+      "focus": "Forward Folds: Seated Forward Bend, Wide-Legged Forward Bend, Pyramid",
+      "cooldown": "5 min Breathing Exercises"
+    },
+    {
+      "warmup": "10 min Sun Salutations",
+      "flow": "Power Yoga: 5 Rounds",
+      "focus": "Arm Balances: Peacock, Firefly, Side Plank Variation",
+      "cooldown": "5 min Savasana"
+    }
+  ]
+}

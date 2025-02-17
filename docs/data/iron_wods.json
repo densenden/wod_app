@@ -1,0 +1,65 @@
+{
+  "name": "Iron & Oly Gym",
+  "wods": [
+    {
+      "warmup": "5 min Row + Dynamic Stretching",
+      "strength": "5x5 Back Squat (80% 1RM)",
+      "wod": "AMRAP 12min: 10 Power Cleans (70kg), 15 Box Jumps (24in)",
+      "accessory": "3x12 Bulgarian Split Squats"
+    },
+    {
+      "warmup": "10 min Assault Bike + Mobility Drills",
+      "strength": "4x4 Deadlift (85% 1RM)",
+      "wod": "FT: 21-15-9: Thrusters (50kg), C2B Pull-Ups",
+      "cooldown": "5 min Walk + Stretching"
+    },
+    {
+      "warmup": "8 min Treadmill Walk + Shoulder Mobility",
+      "strength": "5x3 Bench Press (75% 1RM)",
+      "wod": "EMOM 12min: 4 Hang Cleans (60kg), 8 Push-Ups",
+      "accessory": "3x15 Band Pull-Aparts"
+    },
+    {
+      "warmup": "5 min Jump Rope + Dynamic Stretching",
+      "strength": "5x5 Overhead Squat (70% 1RM)",
+      "conditioning": "18 min Row (moderate pace)",
+      "cooldown": "3 min Deep Breathing"
+    },
+    {
+      "warmup": "7 min Bike + Hip Mobility",
+      "strength": "5x3 Back Squat (85% 1RM)",
+      "wod": "AMRAP 14min: 10 KB Swings (24kg), 8 Sit-Ups, 12 Double Unders",
+      "stretching": "8 min Static Stretching"
+    },
+    {
+      "warmup": "6 min Row + Thoracic Mobility",
+      "strength": "5x5 Deadlift (80% 1RM)",
+      "wod": "FT: 5 Rounds: 12 Wall Balls (9kg), 8 Pull-Ups, 10 KB Goblet Squats (24kg)",
+      "cooldown": "Foam Rolling + Deep Breathing"
+    },
+    {
+      "warmup": "Dynamic Stretching + 8 min Bike",
+      "strength": "4x4 Front Squat (85% 1RM)",
+      "wod": "AMRAP 18min: 14 Box Jumps (24in), 10 Ring Rows, 5 Deadlifts (110kg)",
+      "mobility": "10 min Shoulder Mobility"
+    },
+    {
+      "warmup": "5 min Row + Dynamic Stretching",
+      "strength": "5x5 Back Squat (80% 1RM)",
+      "wod": "AMRAP 12min: 10 Power Cleans (70kg), 15 Box Jumps (24in)",
+      "accessory": "3x12 Bulgarian Split Squats"
+    },
+    {
+      "warmup": "10 min Assault Bike + Mobility Drills",
+      "strength": "4x4 Deadlift (85% 1RM)",
+      "wod": "FT: 21-15-9: Thrusters (50kg), C2B Pull-Ups",
+      "cooldown": "5 min Walk + Stretching"
+    },
+    {
+      "warmup": "8 min Treadmill Walk + Shoulder Mobility",
+      "strength": "5x3 Bench Press (75% 1RM)",
+      "wod": "EMOM 12min: 4 Hang Cleans (60kg), 8 Push-Ups",
+      "accessory": "3x15 Band Pull-Aparts"
+    }
+  ]
+}

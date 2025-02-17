@@ -48,7 +48,8 @@
         "\"",
         "min",
         "%",
-        "x"
+        "x",
+        "Rx",
     ],
     "abbreviations": {
         "1RM": "One-Rep Max",
