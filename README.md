@@ -77,7 +77,7 @@ If you’re interested in collaborating, have feedback, or just want to say hi, 
 
 ### 📍 Key Project Links:
 
-[🔴 Current live deployment on main](https://densenden.github.io/wod_app/)
+[🔴 Current live stable deployment on main](https://densenden.github.io/wod_app/)
 
 [📋 Project Plan](PROJECTPLAN.md)
 [🤷🏾‍♂️ User Journey](USERJOURNEY.md)
