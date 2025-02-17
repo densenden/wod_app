@@ -46,7 +46,9 @@
         "sec",
         "'",
         "\"",
-        "min"
+        "min",
+        "%",
+        "x"
     ],
     "abbreviations": {
         "1RM": "One-Rep Max",

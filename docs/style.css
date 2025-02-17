@@ -40,6 +40,10 @@ body {
     margin-left: 20px;
     color: #222;
 }
+.abbreviation {
+    font-size: 0.8em;
+    color: #FFD700;
+}
 
 #mode {
     font-weight: bold;
@@ -49,12 +53,22 @@ body {
     padding: 5px;
 }
 
-#numbers {
+.number {
     font-weight: 900;
     color: #FFD700;
     text-shadow: 3px 3px black;
 }
+.single-digit {
+    font-size: 1.5em;
+}
+.tens {
+    font-size: 1.5em;
+}
 
+.units {
+    font-size: 0.8em;
+    color: #A9A9A9;
+}
 #movement {
     font-weight: bold;
     color: #D4A017;
